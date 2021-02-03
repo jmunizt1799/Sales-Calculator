@@ -1,3 +1,4 @@
+//This is a new comment on the java script sales calculator
 addEventListener("load", main)
 
 function main() {
